@@ -114,4 +114,8 @@ confirmations
 - Conclusion
 - Additional resources
 
+# GET THE BOOK
+## [Gumroad](https://github.com/essykings/essykings.github.io). 
+## Amazon : Coming Soon
+
 
