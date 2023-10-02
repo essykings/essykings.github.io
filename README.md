@@ -115,7 +115,7 @@ confirmations
 - Additional resources
 
 # GET THE BOOK
-## [Gumroad](https://github.com/essykings/essykings.github.io). 
+## [Gumroad](https://vaati.gumroad.com/l/likkax). 
 ## Amazon : Coming Soon
 
 
