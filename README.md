@@ -86,7 +86,7 @@ frameworks.
 - Additional resources
 
 # GET THE BOOK
-## [Gumroad](https://vaati.gumroad.com/l/likkax). 
-## Amazon : Coming Soon
+## Gumroad. Coming Soon 
+## [Amazon](https://www.amazon.com/dp/B0CKFLHS7B/) : 
 
 
